@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Passage — Travel Itinerary Builder
 
 > Most travel planners organize your bookings. Passage reads between the lines.
@@ -58,3 +59,7 @@ Current travel apps assume you already know what to do when you land. Passage as
 ## License
 
 MIT
+=======
+# Passage
+Paste or upload your travel confirmations — flights, rentals, hotels — and Passage builds a precise, step-by-step itinerary with the operational details that actually matter.
+>>>>>>> origin/main
